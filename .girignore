@@ -1,7 +1,19 @@
 Thumbs.db*
 .DS_Store
 HELP.md
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+.gradle/
+=======
 .gradle
+>>>>>>> bebc73d (add new file)
+=======
+.gradle
+>>>>>>> bebc73d (add new file)
+=======
+.gradle
+>>>>>>> bebc73d (add new file)
 build/
 
 ### STS ###
