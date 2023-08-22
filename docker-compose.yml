@@ -3,7 +3,7 @@ services:
   mysql:
     image: postgres:latest
     ports:
-      - '5432:5432'
+      - '15432:5432'
     volumes:
       - ./data:/var/lib/postgresql/data
     environment:
